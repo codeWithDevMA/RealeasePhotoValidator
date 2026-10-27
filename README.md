@@ -1,12 +1,17 @@
-# DV Photo Validator — Windows Release
+# DV Photo Validator — Android Release
 
 ## Download
-Download the latest Windows installer: [dv_photo_validator.msix](./dv_photo_validator.msix)
+Click the link below to download the Android APK:
+
+[Download dv_photo_validator.apk](https://github.com/codeWithDevMA/RealeasePhotoValidator/raw/android/dv_photo_validator.apk)
 
 ## Installation
-1. Download dv_photo_validator.msix
-2. Double-click to install via Windows App Installer
-3. Or install from the Microsoft Store (coming soon)
+1. Download `dv_photo_validator.apk`
+2. On your Android device, go to Settings → Security → Enable `Unknown Sources`
+3. Open the downloaded APK and tap Install
+
+## Google Play
+Download from Google Play Store (coming soon).
 
 ## Version
 1.0.0 — Initial release
